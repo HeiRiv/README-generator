@@ -14,9 +14,9 @@ The README will entitled Questions, with a link to the users GitHub profile and 
 THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 
 ## Final Product
-😄 Please see below a quick view of my README generator 😄
+😄 Please see below a quick view of my code on JavaScript fot my README generator 😄
  
-
+<img width="1440" alt="Screen Shot 2023-06-01 at 7 52 57 PM" src="https://github.com/HeiRiv/README-generator/assets/128196586/d6f06d5a-3eaf-481a-ac23-dd0093aa7fb2">
 
 
 This is the link for the walkthrough video:  
