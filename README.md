@@ -19,7 +19,7 @@ THEN this is added to the section of the README entitled Questions, with instruc
 <img width="1440" alt="Screen Shot 2023-06-01 at 7 52 57 PM" src="https://github.com/HeiRiv/README-generator/assets/128196586/d6f06d5a-3eaf-481a-ac23-dd0093aa7fb2">
 
 
-This is the link for the walkthrough video:  
+This is the link for the walkthrough video: https://drive.google.com/file/d/1N5ewjB-4SFxb1-ZC9fBtIsHBwY0RdJVn/view
 
 ## Credits
 Awesome documents used for better understanding to develop the challenge,
